@@ -1,0 +1,12 @@
+torch
+jupyter
+matplotlib
+numpy
+pandas
+Pillow
+scikit-image
+scipy
+SimpleITK
+tensorflow
+tiktoken
+
